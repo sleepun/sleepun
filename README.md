@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sleepun
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on a discord bot
-- 📫 How to reach me - discord sleepun#2376
+- 👋 Heyo, I’m @sleepun.
+- 👀 I’m interested in gaming.
+- 🌱 I’m currently learning javascript, python, and looking into typescript.
+- 💞️ I’m looking to cure myself of Lost Ark
+- 📫 How to reach me - discord: sleepun#2376
 
 <!---
 sleepun/sleepun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
