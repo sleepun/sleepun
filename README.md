@@ -1,5 +1,5 @@
 - 👋 Heyo, I’m @sleepun.
-- 👀 I’m interested in gaming.
+- 👀 I’m interested in programming, gaming, and books.
 - 🌱 I’m currently learning javascript, python, and looking into typescript.
 - 💞️ I’m looking to cure myself of Lost Ark
 - 📫 How to reach me - discord: sleepun#2376
